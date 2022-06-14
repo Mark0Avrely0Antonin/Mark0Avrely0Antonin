@@ -19,6 +19,5 @@
 <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
 
 ### Ты можешь написать мне:
-<a href="https://t.me/Cowboy_Namir"><img src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png"/></a>]
-<img src="https://img.icons8.com/fluency/48/undefined/gmail.png"/>
-kozarakovca2@gmail.com
+<a href="https://t.me/Cowboy_Namir"><img src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png"/></a>
+
