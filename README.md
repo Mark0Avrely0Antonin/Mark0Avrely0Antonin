@@ -9,7 +9,7 @@
 <br>
 <br>
 Можешь связать со мной:
-- <img src="https://img.icons8.com/fluency/35/undefined/gmail.png"/> - kozarakovca2@gmail.com
+<img src="https://img.icons8.com/fluency/35/undefined/gmail.png"/> - kozarakovca2@gmail.com
 
 
 ### Стек технологий
