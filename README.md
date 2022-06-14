@@ -9,6 +9,7 @@
 
 
 ### Стек технологий
+<p>
 <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/undefined/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
 <img src="https://img.icons8.com/fluency/48/undefined/retro-robot.png"/>
@@ -17,6 +18,8 @@
 <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/undefined/css3.png"/>
 <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
+</p>
+
 
 ### Ты можешь написать мне:
 <a href="https://t.me/Cowboy_Namir"><img src="https://img.icons8.com/color/48/undefined/telegram-app--v1.png"/></a>
