@@ -3,9 +3,9 @@
 ### Я занимаюсь разработкой web-приложений, пока что на уровне junior!
 
 Я люблю:
-- :<img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/30/undefined/external-programming-engineering-itim2101-lineal-color-itim2101.png"/>: Программирование
-- :<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/undefined/external-byte-computer-science-flaticons-lineal-color-flat-icons.png"/>: Компьютерные науки 
-- :<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/undefined/external-computer-science-computer-science-flaticons-flat-flat-icons.png"/>: Алгоритмы
+- :<img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/undefined/external-programming-engineering-itim2101-lineal-color-itim2101.png"/>: Программирование
+- :<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/undefined/external-byte-computer-science-flaticons-lineal-color-flat-icons.png"/>: Компьютерные науки 
+- :<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/undefined/external-computer-science-computer-science-flaticons-flat-flat-icons.png"/>: Алгоритмы
 
 
 ### Стек технологий
