@@ -8,7 +8,7 @@
 - :<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/undefined/external-computer-science-computer-science-flaticons-flat-flat-icons.png"/>: Алгоритмы
 <br>
 Можешь связать со мной:
-- :<img src="https://img.icons8.com/fluency/40/undefined/gmail.png"/>: kozarakovca2@gmail.com
+- :<img src="https://img.icons8.com/fluency/40/undefined/gmail.png"/>:kozarakovca2@gmail.com
 
 
 ### Стек технологий
